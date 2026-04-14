@@ -47,7 +47,7 @@ https://github.com/tanmenglock/mlt-agency
 
 ## Agentic Self-Improving (ASI)
 
-The DGM project has been moved to: https://github.com/tanmenglock/asi
+The DGM project has been moved to: https://github.com/tanmenglock/mlt-asi
 
 Path: `~/projects/asi/`
 
