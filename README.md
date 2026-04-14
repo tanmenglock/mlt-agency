@@ -44,3 +44,14 @@ https://github.com/tanmenglock/mlt-agency
 ## Generated
 
 2026-04-14
+
+## Agentic Self-Improving (ASI)
+
+The DGM project has been moved to: https://github.com/tanmenglock/asi
+
+Path: `~/projects/asi/`
+
+Key features:
+- Local Ollama-only operation (no API keys)
+- Self-modifying code agent
+- PI coding agent integration
