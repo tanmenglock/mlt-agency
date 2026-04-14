@@ -14,7 +14,7 @@ This repository contains:
 ### Ollama Models
 | Model | ID | Context Window | Features |
 |-------|-----|----------------|----------|
-| minimax-m2.7:cloud | 06daa293c105 | 262K | text, image, reasoning |
+| local llm | 06daa293c105 | 262K | text, image, reasoning |
 
 ### OpenClaw
 - Gateway Port: 18789
@@ -22,7 +22,7 @@ This repository contains:
 - Plugins: web-search, ollama
 
 ### PI Coding Agent
-- Default Model: minimax-m2.7:cloud
+- Default Model: local llm
 - Base URL: http://127.0.0.1:11434/v1
 
 ## Projects
