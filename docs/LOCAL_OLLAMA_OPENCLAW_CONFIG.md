@@ -108,3 +108,7 @@ Location: `~/.pi/agent/settings.json`
 - Gateway token is masked in this document
 - Configurations read from user-level files only
 - No system-wide privileged access required
+
+## Generated
+
+Date: 2026-04-14
